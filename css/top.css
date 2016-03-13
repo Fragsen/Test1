@@ -1,0 +1,102 @@
+a{
+text-decoration: none;
+color:red;
+}
+
+#logowanie a:hover {
+color:red;
+}
+
+#top{
+    width: 900px;
+    height: 180px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:40px ;
+}
+#logo{
+    float: left;
+    padding-top: 20px;
+}
+
+
+#menuFunctions{
+    float: left;
+    height: 180px;
+  
+}
+
+#data{
+    float: left;
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;	
+    line-height: 50px;
+    font-size:20px;
+}
+#logowanie{
+    float: left;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;	
+
+
+}
+
+.reg1{
+width:200px;
+ height: 20px;
+background-color:#333;
+text-align:center;
+margin-top:5px;
+}
+
+
+
+#menu{
+    clear: both;
+    height: 60px;
+    width: 600px;
+    margin-top: 90px;
+
+
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+#menuLoged{
+    width: 900px;
+    height: 100px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+

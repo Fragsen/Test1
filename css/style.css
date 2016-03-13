@@ -1,0 +1,94 @@
+@import "top.css";
+@import "content.css";
+@import "footer.css";
+@import "onas.css";
+@import "faq.css";
+@import "another.css";
+@import "kontakt.css";
+@import "install.css";
+
+body{
+font-family: 'Ubuntu Condensed', sans-serif;
+color:white;
+background: #272125;
+
+}
+
+#config
+{
+
+color:red;
+font-size:100px;
+width:900px;
+heigth:600px;
+}
+
+#redirect{
+margin-left:auto;
+margin-right:auto;
+width:400px;
+height:100px;
+margin-top:100px;
+}
+
+#reg{
+margin-left:auto;
+margin-right:auto;
+margin-top:100px;
+width:300px;
+}
+
+#log {
+margin-left:auto;
+margin-right:auto;
+width:100px;
+margin-top:100px;
+}
+
+.inputL{
+margin-top:10px;
+background-color:grey;
+color:white;
+height:30px;
+font-size:20px;
+border: solid 2px black;
+
+}
+
+.submitL{
+margin-top:10px;
+  background: #d93434;
+  background-image: -webkit-linear-gradient(top, #d93434, #91132c);
+  background-image: -moz-linear-gradient(top, #d93434, #91132c);
+  background-image: -ms-linear-gradient(top, #d93434, #91132c);
+  background-image: -o-linear-gradient(top, #d93434, #91132c);
+  background-image: linear-gradient(to bottom, #d93434, #91132c);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 7px 20px 10px 20px;
+  border: solid #000000 2px;
+  text-decoration: none;
+}
+
+
+
+.submitL	:hover {
+  background: #fa0000;
+  background-image: -webkit-linear-gradient(top, #fa0000, #b30000);
+  background-image: -moz-linear-gradient(top, #fa0000, #b30000);
+  background-image: -ms-linear-gradient(top, #fa0000, #b30000);
+  background-image: -o-linear-gradient(top, #fa0000, #b30000);
+  background-image: linear-gradient(to bottom, #fa0000, #b30000);
+  text-decoration: none;
+
+}
+
+#danger{
+color:red;
+font-size:100px;
+}
+
